@@ -1,3 +1,0 @@
-C:/Users/Administrator/AndroidStudioProjects/MineBridge/app/.cxx/Debug/y1h454o4/x86_64/CMakeFiles/minebridge.dir
-C:/Users/Administrator/AndroidStudioProjects/MineBridge/app/.cxx/Debug/y1h454o4/x86_64/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/AndroidStudioProjects/MineBridge/app/.cxx/Debug/y1h454o4/x86_64/CMakeFiles/rebuild_cache.dir
