@@ -21,7 +21,7 @@
 
 **MineBridge** is a next-generation Virtual LAN VPN solution designed to connect Minecraft players smoothly across any network (4G / Cellular / Public Wi-Fi / Different Subnets) **without Router Port Forwarding** or **CGNAT restrictions**.
 
-Unlike bloated alternatives on the market (30 MB - 80 MB) or initial builds (~40 MB), MineBridge is record-optimized down to **just 1.96 MB** (a **>95%** size reduction), delivering flat ping latency, zero FPS drops, and native C++ anti-tamper security.
+Unlike bloated alternatives on the market (30 MB - 80 MB) or initial builds (~40 MB), MineBridge is record-optimized down to **just 2.11 MB** (a **>95%** size reduction), delivering flat ping latency, zero FPS drops, and native C++ anti-tamper security.
 
 ---
 
