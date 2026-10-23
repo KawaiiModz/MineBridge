@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Ultra-Lightweight (1.96 MB) & High-Speed Virtual LAN Solution for Minecraft Multiplayer & P2P Applications</b>
+  <b>Ultra-Lightweight (2.11 MB) & High-Speed Virtual LAN Solution for Minecraft Multiplayer & P2P Applications</b>
 </p>
 
 <p align="center">
