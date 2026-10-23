@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-Native_Java_%26_C++-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Native" />
   <img src="https://img.shields.io/badge/Server-Node.js_UDP-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Server" />
-  <img src="https://img.shields.io/badge/APK_Size-1.96_MB-brightgreen?style=for-the-badge" alt="APK Size" />
+  <img src="https://img.shields.io/badge/APK_Size-2.11_MB-brightgreen?style=for-the-badge" alt="APK Size" />
   <img src="https://img.shields.io/badge/Security-Native_C++_Anti--Tamper-red?style=for-the-badge" alt="Security" />
 </p>
 
