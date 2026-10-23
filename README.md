@@ -27,7 +27,7 @@ Unlike bloated alternatives on the market (30 MB - 80 MB) or initial builds (~40
 
 ## 🔥 Key Features
 
-* 🚀 **Ultra-Lightweight Size (1.96 MB)**: Built entirely with Native Java & C++, stripped of x86/x86_64 emulators, ProGuard/R8 optimized without code obfuscation, zero WebView or bloatware libraries.
+* 🚀 **Ultra-Lightweight Size (2.11 MB)**: Built entirely with Native Java & C++, stripped of x86/x86_64 emulators, ProGuard/R8 optimized without code obfuscation, zero WebView or bloatware libraries.
 * ⚡ **Low-Latency UDP Tunneling**: Encapsulates raw IP packets directly over UDP, keeping Minecraft ping latency as low as possible.
 * 🔍 **Auto LAN Discovery (Broadcast & Multicast)**: Automatically replicates and broadcasts LAN discovery packets (`255.255.255.255` & `224.0.0.0/4`) so host worlds automatically appear in the Friends tab.
 * 🛡️ **Native C++ Security (Anti-Tamper & Anti-Repack)**:
