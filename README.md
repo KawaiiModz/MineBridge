@@ -1,7 +1,7 @@
 # 🌉 MineBridge - High-Performance Minecraft Virtual LAN VPN
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="120" height="120" alt="MineBridge Logo" />
+  <img src="app/src/main/ic_launcher-playstore.png" width="120" height="120" alt="MineBridge Logo" />
 </p>
 
 <p align="center">
