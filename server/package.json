@@ -1,0 +1,17 @@
+{
+  "name": "minebridge-server-node",
+  "version": "1.0.0",
+  "description": "MineBridge Node.js VPN Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "minebridge",
+    "vpn",
+    "udp",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "ISC"
+}

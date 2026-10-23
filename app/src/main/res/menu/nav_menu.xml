@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_github"
+            android:icon="@drawable/ic_github"
+            android:title="GitHub" />
+        <item
+            android:id="@+id/nav_discord"
+            android:icon="@drawable/ic_discord"
+            android:title="Discord" />
+        <item
+            android:id="@+id/nav_messenger"
+            android:icon="@drawable/ic_messenger"
+            android:title="Messenger" />
+        <item
+            android:id="@+id/nav_zalo"
+            android:icon="@drawable/ic_zalo"
+            android:title="Zalo" />
+        <item
+            android:id="@+id/nav_tiktok"
+            android:icon="@drawable/ic_tiktok"
+            android:title="TikTok" />
+    </group>
+</menu>

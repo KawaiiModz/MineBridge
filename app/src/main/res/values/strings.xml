@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MineBridge</string>
+    <string name="app_subtitle">Powered by Kawaii Modz</string>
+    <string name="status_disconnected">Ready to Connect</string>
+    <string name="status_connecting">Connecting&#8230;</string>
+    <string name="status_connected">Connected Successfully</string>
+
+    <string name="btn_connect">CONNECT</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="btn_connecting">Connecting</string>
+
+    <string name="title_settings">Server Settings</string>
+    <string name="label_server_ip">IP / Address</string>
+    <string name="hint_server_ip">123.456.x.x or vpn.example.com</string>
+    <string name="label_server_port">Port</string>
+    <string name="hint_server_port">24710</string>
+    <string name="label_username">Username</string>
+    <string name="hint_username">Enter username</string>
+    <string name="label_password">Password</string>
+    <string name="hint_password">Enter password</string>
+    <string name="label_auto_connect">Auto-connect on app launch</string>
+    <string name="btn_save_settings">Save Settings</string>
+
+    <string name="virtual_ip_label">Virtual IP:</string>
+    <string name="server_ip_label">Server:</string>
+    <string name="account_label">User:</string>
+    <string name="ping_label">Ping:</string>
+    <string name="not_configured">Not Configured</string>
+    <string name="msg_configure_first">Please configure the server IP in Settings first!</string>
+    <string name="msg_settings_saved">Settings saved successfully!</string>
+</resources>

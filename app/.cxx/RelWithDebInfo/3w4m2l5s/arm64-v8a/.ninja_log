@@ -1,0 +1,5 @@
+# ninja log v5
+0	3112	8142735317848681	CMakeFiles/minebridge.dir/native-lib.cpp.o	e24b4c5ce1c3a4b7
+3128	3278	8142735319753584	C:/Users/Administrator/AndroidStudioProjects/MineBridge/app/build/intermediates/cxx/RelWithDebInfo/3w4m2l5s/obj/arm64-v8a/libminebridge.so	aa86e7fc3ad3151f
+10	2816	8143698564180438	CMakeFiles/minebridge.dir/native-lib.cpp.o	e24b4c5ce1c3a4b7
+2818	3356	8143698569177079	C:/Users/Administrator/AndroidStudioProjects/MineBridge/app/build/intermediates/cxx/RelWithDebInfo/3w4m2l5s/obj/arm64-v8a/libminebridge.so	aa86e7fc3ad3151f
